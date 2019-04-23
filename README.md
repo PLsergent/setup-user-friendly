@@ -1,2 +1,2 @@
 # setup-user-friendly
-My automated setup on ElementaryOs - Ansible
+My setup on ElementaryOs
